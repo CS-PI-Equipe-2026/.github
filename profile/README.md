@@ -11,3 +11,5 @@ Somos a equipe Argonautas, formados por alunos do Campus Paranavaí do Instituto
 - Isaque - Dev
 - Maria Eduarda - Dev
 
+Logo para adicionar na foto de perfil da organização:
+<img width="200" height="187" alt="image" src="https://github.com/user-attachments/assets/7411783c-c748-4125-8c2c-fe3a8b6088d1" />
