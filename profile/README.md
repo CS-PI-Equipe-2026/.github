@@ -1,6 +1,6 @@
-# CS-PI-Equipe-2026
+# Bem vindo a organização Argonautas!
 
-Organização para a matéria de Projeto Integrador e Construção de Software, ministradas pelos professores Frank e Marcelo
+Somos a equipe Argonautas, formados por alunos do Campus Paranavaí do Instituto Federal do Paraná (IFPR). Está é uma organização criada para a matéria de Projeto Integrador e Construção de Software, ministradas pelos professores Frank e Marcelo
 
 ## Nossa Equipe
 
@@ -10,3 +10,4 @@ Organização para a matéria de Projeto Integrador e Construção de Software, 
 - Murilo - Dev
 - Isaque - Dev
 - Maria Eduarda - Dev
+
