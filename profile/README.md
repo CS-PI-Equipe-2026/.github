@@ -9,13 +9,13 @@ Temos como objetivo desenvolver soluções tecnológicas aplicando metodologias 
 ## 👥 Nossa Equipe
 
 **Product Owner**
-Arthur Heiji
+- Arthur Heiji
 
 **Scrum Master**
-Felipe Fabris
+- Felipe Fabris
 
 **Desenvolvedores**
-Giovanna 
-Murilo
-Isaque
-Maria Eduarda
+- Giovanna 
+- Murilo
+- Isaque
+- Maria Eduarda
