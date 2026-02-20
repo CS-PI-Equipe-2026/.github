@@ -1,13 +1,21 @@
 # Bem vindo a organização Argonautas!
 
-Somos a equipe Argonautas, formados por alunos do Campus Paranavaí do Instituto Federal do Paraná (IFPR). Está é uma organização criada para a matéria de Projeto Integrador e Construção de Software, ministradas pelos professores Frank e Marcelo
+Somos a equipe Argonautas, formados por alunos do [Campus Paranavaí do Instituto Federal do Paraná (IFPR)](https://ifpr.edu.br/paranavai/). 
 
-## Nossa Equipe
+Nossa organização foi criada para as disciplinas de Projeto Integrador e Construção de Software, ministradas pelos professores Frank e Marcelo.
 
-- Arthur Heiji - P.O.
-- Felipe - Scrum Master
-- Giovanna - Dev
-- Murilo - Dev
-- Isaque - Dev
-- Maria Eduarda - Dev
+Temos como objetivo desenvolver soluções tecnológicas aplicando metodologias ágeis e boas práticas de desenvolvimento.
 
+## 👥 Nossa Equipe
+
+**Product Owner**
+Arthur Heiji
+
+**Scrum Master**
+Felipe Fabris
+
+**Desenvolvedores**
+Giovanna 
+Murilo
+Isaque
+Maria Eduarda
