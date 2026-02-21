@@ -1,4 +1,4 @@
-# Bem vindo a organização Argonautas!
+# ⚓ Bem vindo a organização Argonautas!
 
 Somos a equipe Argonautas, formados por alunos do [Campus Paranavaí do Instituto Federal do Paraná (IFPR)](https://ifpr.edu.br/paranavai/). 
 
