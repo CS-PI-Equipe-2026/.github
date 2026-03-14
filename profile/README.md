@@ -8,7 +8,7 @@ Nossa organização foi criada para o desenvolvimento de projetos nas disciplina
 
 **Landing Page:** https://cs-pi-2026-argonautas.github.io/landing-page/
 
-
+![Landing page](landing1.png)
 
 ## 👥 Nossa Equipe
 
